@@ -21,7 +21,7 @@ The **Space Mission Analysis Dashboard** is a comprehensive, interactive Excel-b
   <summary><b>Dashboard</b></summary>
   <br>
   
-  ![Space Dashboard](Space_Mission_Dashboard.png)
+  ![Space Dashboard](Space_Dashboard.png)
 </details>
 
 ## Repository Structure
