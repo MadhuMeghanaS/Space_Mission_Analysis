@@ -2,6 +2,7 @@
 
 This project contains a comprehensive Excel dashboard for analyzing global space exploration missions.
 
+## Dashboard Preview
 <details>
   <summary>Space Mission Analysis Dashboard</summary>
   
@@ -12,4 +13,4 @@ This project contains a comprehensive Excel dashboard for analyzing global space
 - `Global_Space_Exploration_Dataset.csv`: The dataset used for the analysis.
 - `Space_Mission_Analysis.xlsx`: The main Excel workbook containing the dashboard and analysis.
 
-## Dashboard Preview
+
